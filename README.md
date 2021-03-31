@@ -33,7 +33,7 @@ This is a social web application like instagram where you can share places that 
  5. Auto login on refreshing and logout after token's expiration.
  6. Proper Validation for User entered Data.
  
- ### Home👇
+ ### LoggedIn HomePage 👇
  ![Screenshot (154)](https://user-images.githubusercontent.com/79076537/113171357-03eabe00-9265-11eb-817c-4f91188bbf41.png)
  
  ### Shared Places 👇
