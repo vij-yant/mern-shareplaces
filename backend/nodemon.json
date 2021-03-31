@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "DB_USER" : "Vijyant",
+        "DB_PASSWORD" : "IbS7GXjWnlUmOjBx",
+        "DB_NAME" : "SharePlacesDB",
+        "JWT_KEY" : "SECRET_CODE",
+        "GOOGLE_API_KEY" : "AIzaSyCsE8V8c4pVA2QbuNFqbrF6SyclDZsFNnA"
+    }
+}
